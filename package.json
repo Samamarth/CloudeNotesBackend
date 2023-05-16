@@ -17,5 +17,9 @@
     "mongoose": "^7.0.3"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "",
+  
+  "engines": {
+    "node": ">=14 <15"
+  }
 }
